@@ -1,1 +1,1 @@
-console.log('hidf')
+import './x.js'
